@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/typochecker/static/js/main.a9dd075e.js",
+    "index.html": "/typochecker/index.html",
+    "main.a9dd075e.js.map": "/typochecker/static/js/main.a9dd075e.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.a9dd075e.js"
+  ]
+}
